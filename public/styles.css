@@ -1,42 +1,52 @@
-
 @import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,400italic,700,700italic,900,900italic);
-
 
 * {
   text-align: center;
   font-family: 'Playfair Display';
-
 }
 
 .container-1 {
   padding: 50px;
-  background-color: #CEC3CD ;
+  background-color: #CEC3CD;
 }
 
 .othertext {
-  font-size: 20px;
+  font-size: 22px;
+  color: #3B3B3C;
+  font-style: italic;
+  letter-spacing: .05em;
+  padding-bottom: 20px;
+}
+
+#send {
+  text-shadow: none;
+  box-shadow: none;
+  padding: 5px;
+  border-radius: 25%;
+  margin-left: 10px;
+}
+
+.title {
+  font-size: 35px;
   color: #3B3B3C;
   font-style: italic;
   letter-spacing: .03em;
   padding-bottom: 20px;
-
+  font-weight: bold;
 }
 
-/*#send {
-  padding: 15px;
-
-}*/
-
+.output {
+  color: white;
+}
 
 .undersize {
   font-size: 20px;
-  letter-spacing: .15em;
+  letter-spacing: .1em;
   font-style: italic;
   font-weight: 400;
   font-family: 'Playfair Display';
   text-align: center;
   color: #3B3B3C;
-
 }
 
 .bigsize {
@@ -50,6 +60,4 @@
   text-align: center;
   /*color: #3B3B3C;*/
   color: #463a44;
-
-
 }

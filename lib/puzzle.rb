@@ -4,7 +4,6 @@ class String
     new_word = self.split("")
     for character in 0..new_word.length() -1
       letter = new_word[character]
-      # letter.downcase!()
       if letter == ("a") || letter == ("A")
         new_phrase.push("-")
       elsif letter == ("e") || letter == ("E")
