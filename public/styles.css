@@ -8,44 +8,48 @@
 
 }
 
-h2 {
-  font-family: 'Playfair Display';
-  font-size: 40px;
-  font-weight: 300;
+.container-1 {
+  padding: 50px;
+  background-color: #CEC3CD ;
 }
 
-h3 {
-  text-align: center;
-  font-family: 'Playfair Display';
+.othertext {
+  font-size: 20px;
+  color: #3B3B3C;
+  font-style: italic;
+  letter-spacing: .03em;
   padding-bottom: 20px;
-  letter-spacing: 1.3px;
-  font-size: 16px;
-  font-weight: 300;
+
 }
 
-#send {
+/*#send {
   padding: 15px;
-  margin-top: 15px;
-  font-weight: bold;
-}
+
+}*/
+
 
 .undersize {
-  font-size: 22px;
+  font-size: 20px;
   letter-spacing: .15em;
   font-style: italic;
   font-weight: 400;
   font-family: 'Playfair Display';
   text-align: center;
+  color: #3B3B3C;
+
 }
 
 .bigsize {
-  letter-spacing: .07em;
+  letter-spacing: .03em;
   line-height: 80px;
   margin-top: 5px;
-  margin-bottom: 35px;
-  font-size: 75px;
+  margin-bottom: 30px;
+  font-size: 80px;
   font-weight: 700;
   font-family: 'Playfair Display';
   text-align: center;
+  /*color: #3B3B3C;*/
+  color: #463a44;
+
 
 }
