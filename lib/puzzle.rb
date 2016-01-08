@@ -10,11 +10,11 @@ class String
       elsif letter == ("e") || letter == ("E")
         new_phrase.push("-")
       elsif letter == ("i") || letter == ("I")
-      new_phrase.push("-")
+        new_phrase.push("-")
       elsif letter == ("o") || letter == ("O")
-      new_phrase.push("-")
+        new_phrase.push("-")
       elsif letter == ("u") || letter == ("U")
-      new_phrase.push("-")
+        new_phrase.push("-")
       else
         new_phrase.push(letter)
       end
