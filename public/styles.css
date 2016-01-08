@@ -1,45 +1,51 @@
+
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,400italic,700,700italic,900,900italic);
+
+
 * {
   text-align: center;
-  font-family: 'Didot';
-}
-
-
-h1 {
-  text-align: center;
-  font-family: 'Didot';
-  font-size: 50px;
-  letter-spacing: .20em;
-
+  font-family: 'Playfair Display';
 
 }
 
 h2 {
-  font-family: 'Didot';
+  font-family: 'Playfair Display';
+  font-size: 40px;
+  font-weight: 300;
 }
 
 h3 {
   text-align: center;
-  font-family: 'Didot';
+  font-family: 'Playfair Display';
   padding-bottom: 20px;
-  font-style: italic;
-  letter-spacing: .6px;
-
-
+  letter-spacing: 1.3px;
+  font-size: 16px;
+  font-weight: 300;
 }
 
 #send {
   padding: 15px;
   margin-top: 15px;
   font-weight: bold;
-
 }
 
 .undersize {
-  font-size: 25px;
-  letter-spacing: .20em;
+  font-size: 22px;
+  letter-spacing: .15em;
   font-style: italic;
+  font-weight: 400;
+  font-family: 'Playfair Display';
+  text-align: center;
 }
 
 .bigsize {
-  letter-spacing: .35em;
+  letter-spacing: .07em;
+  line-height: 80px;
+  margin-top: 5px;
+  margin-bottom: 35px;
+  font-size: 75px;
+  font-weight: 700;
+  font-family: 'Playfair Display';
+  text-align: center;
+
 }
