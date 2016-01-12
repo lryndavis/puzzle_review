@@ -8,7 +8,7 @@ This program allows the user to input a phrase and receive a puzzle as output. T
 
 Clone repository at [Github](https://github.com/lryndavis/puzzle_review)
 
-or view in action at [Heroku]()
+or view in action at [Heroku](https://salty-shore-4385.herokuapp.com/)
 
 ### Liscense
 MIT License. Copyright 2015 Epicodus.
